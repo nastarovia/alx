@@ -4,7 +4,7 @@ Welcome to your new Jekyll theme! In this directory, you'll find the files you n
 
 To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
 
-TODO: Delete this and the text above, and describe your gem
+TODO:  and describe your gem
 
 
 ## Installation
@@ -49,4 +49,3 @@ To add a custom directory to your theme-gem, please edit the regexp in `alx.gems
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
