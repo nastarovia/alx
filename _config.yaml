@@ -2,6 +2,17 @@
 title: La Vorágine
 tagline: Un laboratorio de edición digital
 
+sass:
+  sass_dir: assets/css
+
+plugins:
+  - jekyll-autoprefixer
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+
 defaults:
   -
     scope:
