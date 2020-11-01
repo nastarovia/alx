@@ -1,17 +1,23 @@
 {% assign books = site.data.books %}
-<div class="columns is-multiline">
-<div class="column is-one-third">
-<div class="tile is-parent">
-  {% for item in books %}
-        <article class="tile is-child box">
+{% for item in books %}
+{% if item.book == page.title %}
+<div class="container ">
+<section class="columns mx-6 mt-3">
+
+  <div class="column is-one-third">
+
+          <figure class="image is-2by3 ">
+            <img src="{{ item.cover }}" alt="{{ item.book | append: "cubierta de" }}"
+          </figure>
+  </div>
+  <div class="column ml-2 mr-6">
+
           <p class="title">{{ item.book }}</p>
           <p class="subtitle">{{ item.author }}</p>
-          <figure class="image is-4by3">
-            {{ item.cover }}
-          </figure>
-        </article>
-  {% endfor %}
-      </div>
-    </div>
-
+          <p class="content">{{ item.description }}
   </div>
+{% endif %}
+{% endfor %}
+
+</section>
+</div>

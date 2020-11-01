@@ -6,7 +6,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 $family-sans-serif: 'Open Sans', sans-serif;
-$family-serif: 'arvo', serif
+$family-serif: 'Arvo', serif;
+$family-primary: $family-serif;
+$title-weight: 400;
+$subtitle-family: $family-sans-serif;
+$size-6: 0.85rem;
+
 $primary: #188eac !default;
 
 $tabs-link-active-color: $primary;
