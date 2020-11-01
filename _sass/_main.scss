@@ -1,7 +1,12 @@
 @charset "utf-8";
 // aquí importamos google fonts: @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-// y aquí la añadimos: $family-sans-serif: 'Montserrat', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+$family-sans-serif: 'Open Sans', sans-serif;
+$family-serif: 'arvo', serif
 $primary: #188eac !default;
 
 $tabs-link-active-color: $primary;

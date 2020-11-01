@@ -1,0 +1,17 @@
+{% assign books = site.data.books %}
+<div class="columns is-multiline">
+<div class="column is-one-third">
+<div class="tile is-parent">
+  {% for item in books %}
+        <article class="tile is-child box">
+          <p class="title">{{ item.book }}</p>
+          <p class="subtitle">{{ item.author }}</p>
+          <figure class="image is-4by3">
+            {{ item.cover }}
+          </figure>
+        </article>
+  {% endfor %}
+      </div>
+    </div>
+
+  </div>
