@@ -74,20 +74,20 @@
   cover: /assets/imgs/TigresaCover.jpg
   slug: la-tigresa
 
-- book: 'Aloja'
+- book: 'Una galaxia de luciérnagas'
   book_subtitle:
-  author: 'Mynona / Salomo Friedlaender'
-  prologue: 'Prólogo de Claudio Naranjo'
-  translator: 'Traducción de Luisina Rüedi'
-  illustrator: 'Fotografías de Jerónimo Rüedi & Josue Eber Morales'
+  author: 'Aina Tur'
+  prologue: 'Prólogo de José Sanchís Sinisterra'
+  translator: 'Traducción al inglés de Guillem Murphy'
+  illustrator: 'Ilustraciones de Marc Salicrú'
   isbn: '978-84-940629-6-4'
   depósito legal: 'B.10528-2013'
-  release_date: 'Octubre de 2019'
-  PVP: '18,50€'
-  PVP_ebook:  '6,00 €'
+  release_date: 'Noviembre de 2020'
+  PVP: '14,50€'
+  PVP_ebook:  '4,50 €'
   Printed_book_format: 'Medidas: 210 x 130 mm'
   pages_number: '148 páginas'
   ebook_format: 'Disponible en Epub3 & Mobi (para Amazon KIndle)'
-  description: 'Catalogado por su autor —Mynona («anónimo» al revés)— como «el experimento mágico más profundo desde Nostradamus», El Creador cuenta la historia de Gumprecht Weiss, un intelectual que se ha retirado de una vida de libertinaje para perseguir sus solitarias reflexiones filosóficas. Al principio soñando y luego encontrándose en la vigilia con una atractiva joven llamada Elvira, Weiss descubre que ella ha escapado de las garras de su tío, el barón, que la ha estado usando como conejillo de indias en sus experimentos metafísicos. Pero el Barón los alcanza y convence a Gumprecht y Elvira para que acudan a su laboratorio, para participar en un experimento destinado a salvar la brecha entre la conciencia despierta y el sueño, entrando en un espejo diseñado para doblar y mezclar realidades. La fábula filosófica de Mynona fue descrita por el legendario editor alemán Kurt Wolff como «una estación más lejana en el imaginativo tren del pensamiento de Hoffmann, Villiers, Poe, etc.», cuando apareció en 1920. La edición se completa con un prólogo del pensador chileno Claudio Naranjo y una serie de fotografías de los artistas plásticos Jerónimo Rüedi & Josue Eber Morales, que reinterpretan las ilustraciones originales de Alfred Kubin'
-  cover: /assets/imgs/elCreadorCover.jpg
-  slug: el-creador
+  description: 'La historia empezó el 24 de julio de 1998, “en un pequeño país del trópico que no nombraré por razones de seguridad, del mismo modo que debo obviar algunos nombres y lugares”. Imposible, pues, detallarlo todo. Contaré fragmentos del relato, sobre todo los que vuelven. Lo que realmente vale la pena es ver y escuchar a Anna Alarcón y leer el no menos estupendo texto de Aina Tur. Empezó con una pesadilla. La protagonista está prisionera, incapaz de levantarse de una silla, con un calor salvaje, que parece empapar realmente a Alarcón. Los mangos van cayendo y no se pueden comer. Una pesadilla en la que se une lo sensual, el aroma feroz de la fruta y el ansia de escapar. “Sabía que algún día contaría lo que pasó”, cuenta la narradora, “pero nunca encontraba el momento, el impulso, ni la valentía”. Tras colaborar con otra ONG, Tur y sus compañeros son asaltados por cinco jóvenes encapuchados, que corrían hacia ellos con pistolas y ametralladoras. Sigue: “Nos tuvieron cinco horas retenidos, descalzos (menos yo), las manos a la cabeza, encañonados. Dos pistolas. Dos fusiles de asalto: un AK47 y un M16. Yo era la única mujer. Nos guiaban a gritos, fuera del camino”. Pidió que no la torturasen durante días. Rezó. “A Dios. Sí, ya sé que no existe. Pero le pedí una violación rápida, no muy dolorosa, sin sangre. Sin tortura, sin secuestro”.'
+  cover: /assets/imgs/UnaGalaxiaDeLuciernagasCover.jpg
+  slug: una-galaxia-de-luciernagas

@@ -1,3 +1,31 @@
 # site info
 title: La Vorágine
 tagline: Un laboratorio de edición digital
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Lucho Tapia"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  libros:
+    output: true
+    permalink: /libros/:path/
+
+
+logo: /assets/imgs/logo.png

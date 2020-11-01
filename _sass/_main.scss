@@ -10,7 +10,14 @@ $family-serif: 'Arvo', serif;
 $family-primary: $family-serif;
 $title-weight: 400;
 $subtitle-family: $family-sans-serif;
-$size-6: 0.85rem;
+$size-6: 1rem;
+
+.navbar { margin: auto!important;}
+.navbar-item {font-size: 1.2rem!important; font-family: $family-sans-serif;}
+
+.box:not(:last-child) {
+    margin-bottom: 1.3rem!important;
+}
 
 $primary: #188eac !default;
 
