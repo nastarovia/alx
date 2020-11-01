@@ -2,16 +2,27 @@
 title: La Vorágine
 tagline: Un laboratorio de edición digital
 
-sass:
-  sass_dir: assets/css
-
 plugins:
   - jekyll-autoprefixer
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
 
 defaults:
   -
