@@ -1,6 +1,7 @@
 # site info
 title: 'La Vorágine'
 tagline: 'Un laboratorio de edición digital'
+baseurl: "alx/"
 
 plugins:
   - jekyll-seo-tag
