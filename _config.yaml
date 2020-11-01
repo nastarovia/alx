@@ -1,6 +1,6 @@
 # site info
-title: La Vorágine
-tagline: Un laboratorio de edición digital
+title: 'La Vorágine'
+tagline: 'Un laboratorio de edición digital'
 
 plugins:
   - jekyll-autoprefixer
