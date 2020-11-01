@@ -3,7 +3,6 @@ title: 'La Vorágine'
 tagline: 'Un laboratorio de edición digital'
 
 plugins:
-  - jekyll-autoprefixer
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
