@@ -10,7 +10,7 @@ plugins:
   - jekyll-paginate
 exclude:
   - Gemfile
-  - clean-theme.gemspec
+  - alx.gemspec
   - Gemfile.lock
   - node_modules
   - vendor/bundle/
@@ -20,9 +20,9 @@ exclude:
 
 livereload: true
 
- load_paths:
-    - _sass
-    - node_modules
+sass:
+  style: compressed
+  source_dir: _sass
 
 permalink: /:categories/:title/
 
