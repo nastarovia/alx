@@ -16,20 +16,17 @@ $size-6: 1rem;
 .box:not(:last-child) {
     margin-bottom: 1.3rem!important;
 }
+.gh-sponsor {
+  color: #ea4aaa;
 
 $primary: #188eac !default;
 
 $tabs-link-active-color: $primary;
 $tabs-link-active-border-bottom-color: $primary;
-
+$hero-darken: $dark !default;
 $modal-content-width: 800px;
 
 @import "../node_modules/bulma/bulma.sass";
-$hero-darken: $dark !default;
-
-
 @import "../node_modules/bulma-block-list/src/block-list.scss";
 
-.gh-sponsor {
-  color: #ea4aaa;
 }
