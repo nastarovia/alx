@@ -1,7 +1,7 @@
 # site info
 title: 'La Vorágine'
 tagline: 'Un laboratorio de edición digital'
-baseurl: ""
+baseurl: "https://github.com/nastarovia/alx"
 
 plugins:
   - jekyll-seo-tag
